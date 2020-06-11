@@ -4,7 +4,7 @@
 
 The report and Kaggle screenshot can be found as Report.pdf and kaggle_submission
 
-The python code shoud run on the OSU flip server if all imports are installed.  These include
+The python code shoud run on the OSU flip server if all imports are installed.  These include:
 
 seaborn
 matplotlib
